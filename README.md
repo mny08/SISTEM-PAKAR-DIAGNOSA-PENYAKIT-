@@ -1,6 +1,5 @@
-Sistem-Pakar-Mendiagnosa-Kerusakan-Handphone
+Sistem-Pakar-Mendiagnosa-Penyakit-padaManusia
 ============================================
 
-
-Sistem Pakar Mendiagnosa kerusakan pada Hanphone.
+SISTEM PAKAR UNTK MENDIAGNSOA PENYAKIT PADA MANUSIA
 
